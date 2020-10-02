@@ -1,0 +1,8 @@
+<Project Version="2" Name="BC-Airports-1" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\cal3.xml</Package>
+	</Packages>
+</Project>
+
