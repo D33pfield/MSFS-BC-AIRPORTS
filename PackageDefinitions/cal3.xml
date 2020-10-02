@@ -16,15 +16,15 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageDefinitions\cal3\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\cal3</OutputDir>
+			<OutputDir>ContentInfo\cal3\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="cal3">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

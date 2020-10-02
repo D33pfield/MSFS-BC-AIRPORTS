@@ -1,19 +1,24 @@
 {
   "content": [
     {
+      "path": "ContentInfo/cal3/Thumbnail.jpg",
+      "size": 18194,
+      "date": 132461061801251391
+    },
+    {
       "path": "manifest.json",
       "size": 299,
-      "date": 132461017279529176
+      "date": 132461024163500559
     },
     {
       "path": "scenery/CAL3-APT.bgl",
       "size": 7141,
-      "date": 132461024162787415
+      "date": 132461061983503768
     },
     {
       "path": "scenery/CVX0003.BGL",
-      "size": 2781,
-      "date": 132461024162946981
+      "size": 2967,
+      "date": 132461061983703230
     }
   ]
 }
