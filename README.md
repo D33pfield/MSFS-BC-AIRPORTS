@@ -10,14 +10,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-<<<<<<< HEAD
+
 Changelog:
 0.002
 -CYQQ beta
 0.001
 -CAL3 added
-=======
-## Changelog
-0.001  
--CAL3 Douglas Lake added
->>>>>>> ff8a620fc34dd1a7bb8b177e7e7da2d55fc6e89d
+
+
