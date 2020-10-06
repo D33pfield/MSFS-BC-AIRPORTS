@@ -388,31 +388,69 @@
 	<SceneryObject lat="50.16361662161115" lon="-120.16138710280265" alt="0.00000000000000" pitch="0.001530" bank="-0.000458" heading="-75.332567" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{4302CAAE-7588-4F80-A3FA-AC040EA8967C}" scale="0.981802"/>
 	</SceneryObject>
-	<Airport region="British Columbia" country="Canada" state="-17" city="Douglas Lake" name="Douglas Lake" ident="CAL3" lat="50.16563138304804" lon="-120.17126251888018" alt="792.26468068268150" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="881.99995260276057" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
-		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="50.16371525156546" lon="-120.16204240135563"/>
-		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="50.16383820605616" lon="-120.16200441908867"/>
-		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="50.16387482817537" lon="-120.16198260459109"/>
-		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="50.16392030884352" lon="-120.16195725505713"/>
-		<TaxiwayPoint index="6" type="NORMAL" orientation="FORWARD" lat="50.16397155832717" lon="-120.16197205976580"/>
-		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="50.16401271625435" lon="-120.16203238023719"/>
-		<TaxiwayParking index="0" type="RAMP_CARGO" lat="50.16343358826772" lon="-120.16164384027040" heading="180.000000" radius="10.650001" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1" type="RAMP_GA_MEDIUM" lat="50.16367645251500" lon="-120.16206985155175" heading="-0.568593" radius="13.440002" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="50.16385103980682" lon="-120.16131483143911" heading="290.400055" radius="4.559000" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="3" type="RAMP_GA_SMALL" lat="50.16401468777322" lon="-120.16140258116538" heading="87.333992" radius="4.849999" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+	<Airport region="British Columbia" country="Canada" state="-17" city="Douglas Lake" name="Douglas Lake" ident="CAL3" lat="50.16563138304804" lon="-120.17126251888018" alt="792.26468068268150" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="1281.01760178223003" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiwayParking index="0" type="RAMP_CARGO" lat="50.16343358794553" lon="-120.16164384027765" heading="0.000895" radius="10.650001" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_MEDIUM" lat="50.16367645246461" lon="-120.16206985155090" heading="16.380350" radius="13.440002" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="50.16381513675575" lon="-120.16141705091023" heading="290.400055" radius="5.288440" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="3" type="RAMP_GA_SMALL" lat="50.16400183129019" lon="-120.16142599218225" heading="65.298073" radius="4.849999" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="4" type="RAMP_GA_SMALL" lat="50.16709176834017" lon="-120.18048482994662" heading="198.158691" radius="5.000000" name="NONE" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="5" end="6" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="6" end="7" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="7" end="8" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="8" end="9" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="9" end="10" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<Runway lat="50.16546541290108" lon="-120.17134832800599" alt="841.81050649844110" heading="103.69865417480469" length="1379.95434570312500" width="10.71625614166260" patternAltitude="4500.00000000000000" surface="{3BF4D104-71F0-4D0E-9E34-B8B4BBFB44C6}" transparent="FALSE" number="08" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
 			<RunwayStart end="PRIMARY" lat="50.16684675841863" lon="-120.18007241946052" alt="841.81516456790268" heading="103.69862365722656"/>
 			<RunwayStart end="SECONDARY" lat="50.16402426583058" lon="-120.16221213187784" alt="843.26988160796463" heading="283.69857788085938"/>
 		</Runway>
-		<Aprons/>
+		<Aprons>
+			<Apron surface="{83612162-C9A1-4E1E-A783-1A725E9A2B3F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="1.326450" falloff="4.000000" opacity="178" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="50.16278217721341" lon="-120.15416793203720"/>
+				<Vertex lat="50.16285383017674" lon="-120.15490593531015"/>
+				<Vertex lat="50.16295286899710" lon="-120.15572660603320"/>
+				<Vertex lat="50.16314114196724" lon="-120.15677431302846"/>
+				<Vertex lat="50.16321473729435" lon="-120.15707398903677"/>
+				<Vertex lat="50.16351256618374" lon="-120.15816797345798"/>
+				<Vertex lat="50.16374657382819" lon="-120.15902048428019"/>
+				<Vertex lat="50.16400522980472" lon="-120.15997700430657"/>
+				<Vertex lat="50.16420994808805" lon="-120.16097112785789"/>
+				<Vertex lat="50.16443521397965" lon="-120.16232428487884"/>
+				<Vertex lat="50.16478154328543" lon="-120.16444105900571"/>
+				<Vertex lat="50.16502305540015" lon="-120.16593059001660"/>
+				<Vertex lat="50.16533457414243" lon="-120.16784539401982"/>
+				<Vertex lat="50.16556911569149" lon="-120.16930222122424"/>
+				<Vertex lat="50.16574490765630" lon="-120.17038663260378"/>
+				<Vertex lat="50.16593488722247" lon="-120.17154024759915"/>
+				<Vertex lat="50.16672807323946" lon="-120.17637613509879"/>
+				<Vertex lat="50.16715586994950" lon="-120.17902459383239"/>
+				<Vertex lat="50.16734783279917" lon="-120.18023194185102"/>
+				<Vertex lat="50.16736026143869" lon="-120.18037718368056"/>
+				<Vertex lat="50.16735779440329" lon="-120.18081271226663"/>
+				<Vertex lat="50.16729746650562" lon="-120.18153097690345"/>
+				<Vertex lat="50.16717027515355" lon="-120.18208351410409"/>
+				<Vertex lat="50.16697193363539" lon="-120.18266528415519"/>
+				<Vertex lat="50.16688510597115" lon="-120.18258675985116"/>
+				<Vertex lat="50.16708357600793" lon="-120.18201064291357"/>
+				<Vertex lat="50.16715785218736" lon="-120.18174554945195"/>
+				<Vertex lat="50.16722907550128" lon="-120.18124863397445"/>
+				<Vertex lat="50.16726739513191" lon="-120.18054107755346"/>
+				<Vertex lat="50.16726103202500" lon="-120.18030155364272"/>
+				<Vertex lat="50.16711683135990" lon="-120.17941641377580"/>
+				<Vertex lat="50.16689065143162" lon="-120.17800291138948"/>
+				<Vertex lat="50.16650188222465" lon="-120.17560939077698"/>
+				<Vertex lat="50.16601069984462" lon="-120.17257770799317"/>
+				<Vertex lat="50.16559061600252" lon="-120.16999162084032"/>
+				<Vertex lat="50.16506435498929" lon="-120.16675800266999"/>
+				<Vertex lat="50.16443085819384" lon="-120.16284914708959"/>
+				<Vertex lat="50.16421910270252" lon="-120.16154857266385"/>
+				<Vertex lat="50.16399611830285" lon="-120.16036805035316"/>
+				<Vertex lat="50.16347273182726" lon="-120.15836156509843"/>
+				<Vertex lat="50.16309786911038" lon="-120.15698399833340"/>
+				<Vertex lat="50.16293290023486" lon="-120.15617859018386"/>
+				<Vertex lat="50.16287182159633" lon="-120.15582665792002"/>
+				<Vertex lat="50.16281092552025" lon="-120.15536730204593"/>
+				<Vertex lat="50.16274774325863" lon="-120.15475527488685"/>
+				<Vertex lat="50.16268996095528" lon="-120.15418656133457"/>
+			</Apron>
+		</Aprons>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="FALSE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="TRUE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
