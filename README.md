@@ -6,5 +6,7 @@ I'm also pretty new to this so its probablly going to be slow going
 
 
 Changelog:
+0.002
+-CYQQ beta
 0.001
 -CAL3 added

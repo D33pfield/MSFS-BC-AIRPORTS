@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "Business.json",
+      "size": 118,
+      "date": 132462971361301629
+    },
+    {
+      "path": "ContentInfo/CYQQ/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132452073880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 298,
+      "date": 132464214122597228
+    },
+    {
+      "path": "scenery/CYQQ/modelLib.BGL",
+      "size": 56,
+      "date": 132462974475303395
+    },
+    {
+      "path": "scenery/CYQQ-Scenery.bgl",
+      "size": 11843,
+      "date": 132464236118221655
+    },
+    {
+      "path": "scenery/TSHAPE.BGL",
+      "size": 1209,
+      "date": 132464236118311411
+    }
+  ]
+}
