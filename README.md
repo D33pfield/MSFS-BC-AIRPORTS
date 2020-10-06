@@ -12,6 +12,8 @@ Please make sure to update tests as appropriate.
 
 
 Changelog:  
+0.003  
+-CYHE added  
 0.002  
 -CYQQ beta    
 0.001  
