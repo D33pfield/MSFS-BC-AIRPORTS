@@ -15,6 +15,9 @@ Please make sure to update tests as appropriate.
 __CYHE - Hope Airport__
 ![CYHE](/Media/Screenshots/CYHE/1.jpg)  
 ![CYHE](/Media/Screenshots/CYHE/2.jpg)  
-![CYHE](/Media/Screenshots/CYHE/3.jpg)
+![CYHE](/Media/Screenshots/CYHE/3.jpg)  
+  
+__CAL3 - Douglas Lake Airport__  
+![CAL3](/Media/Screenshots/CAL3/1.jpg)  
 
 
