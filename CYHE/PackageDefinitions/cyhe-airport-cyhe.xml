@@ -1,0 +1,31 @@
+<AssetPackage Name="cyhe-airport-cyhe" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>CYHE FVRD Regional Airpark</Title>
+		<Manufacturer/>
+		<Creator>Deepfield</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\cyhe-airport-cyhe\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\cyhe-airport-cyhe</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="cyhe-scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
