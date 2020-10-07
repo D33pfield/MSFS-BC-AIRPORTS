@@ -3,7 +3,7 @@
 A collection of pass overs on smaller airports in the B.C. area. 
 
 The long term goal is to touch up most BC area airstrips and airports. 
-I'm still learning alot so its probablly going to be slow going. Keep in mind most of these will always be a WIP
+I'm still learning alot so its probablly going to be messy and slow going. Keep in mind most of these will always be a WIP
 
 ## Downloads  
 You can either download the release builds from the releases page or you can grab the latest in \<ICAO>\Packages\
