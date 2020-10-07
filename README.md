@@ -23,7 +23,7 @@ Located in the Cariboo, Likely is one of the few remaining gold rush settlements
 * Added water bodies
 * 2 Misc buildings added with props
 * Added 3 parking (1 medium GA, 2 small GA)
-* Corrected  vegitation
+* Corrected  vegetation
 * Cleaned up ground textures in some areas  
 
 
