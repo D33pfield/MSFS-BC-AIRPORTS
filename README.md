@@ -17,6 +17,7 @@ Please make sure to update tests as appropriate.
 ## Current Content 
 
 __CAX5 - Likely Aerodome__  
+Located in the Cariboo, Likely is one of the few remaining gold rush settlements. The airfield is just west of Hepburn Lake making for a nice approach.  
 ![CAX5](/Media/Screenshots/CAX5/1.jpg)  
 ![CAX5](/Media/Screenshots/CAX5/2.jpg)  
 * Added water bodies
