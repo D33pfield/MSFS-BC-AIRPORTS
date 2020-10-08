@@ -1,0 +1,39 @@
+<AssetPackage Name="7wa5scenery" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>7WA5</Title>
+		<Manufacturer/>
+		<Creator>Deepfield</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\7WA5Scenery\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\7WA5Scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="myscene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
