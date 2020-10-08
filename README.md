@@ -15,6 +15,18 @@ Please make sure to update tests as appropriate.
 
 
 ## Current Content 
+  
+  __7WA5 - Stuart Island Airpark__  
+Stuart Island is one of the San Juan Islands, north of San Juan Island and west of Waldron Island in the U.S. state of Washington.  
+![CAX5](/Media/Screenshots/7WA5/1.jpg)  
+![CAX5](/Media/Screenshots/7WA5/2.jpg)  
+![CAX5](/Media/Screenshots/7WA5/3.jpg)  
+* Fixed all vegetation in and nearby airstrip
+* Misc buildings and hangars added
+* Added cleaner ground textures  
+* Added several parking spots
+* Added dock and boats
+  
 
 __CAX5 - Likely Aerodrome__  
 Located in the Cariboo, Likely is one of the few remaining gold rush settlements. The airfield is just west of Hepburn Lake making for a nice approach.  
