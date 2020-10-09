@@ -1,0 +1,8 @@
+<Project Version="2" Name="CYJM" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\cyjm.xml</Package>
+	</Packages>
+</Project>
+
