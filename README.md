@@ -19,7 +19,7 @@ Please make sure to update tests as appropriate.
 __YFB - Bamfield Aerodrome__  
 Bamfield was populated by Huu-ay-aht of the Nuu-chah-nulth, the local indigenous people. Europeans founded a small fishing community sometime in the late 1800s. Most of the indigenous people now live in the neighbouring village of Anacla about 5 kilometres from Bamfield  
 ![YBF](/Media/Screenshots/YBF/1.jpg) 
-![YBF](/Media/Screenshots/YBF/1.jpg)
+![YBF](/Media/Screenshots/YBF/2.jpg)
 * Code YBF added. Airport was missing from MSFS
 * Fixed some vegetation in and nearby airstrip. Vegetation near airstrip is buggy and will not populate at times.
 * Buildings adssded   
