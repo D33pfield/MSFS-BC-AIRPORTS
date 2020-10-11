@@ -1,0 +1,8 @@
+<Project Version="2" Name="YBF" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\ybf.xml</Package>
+	</Packages>
+</Project>
+
