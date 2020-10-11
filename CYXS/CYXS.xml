@@ -1,0 +1,8 @@
+<Project Version="2" Name="CYXS" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\cyxs.xml</Package>
+	</Packages>
+</Project>
+
