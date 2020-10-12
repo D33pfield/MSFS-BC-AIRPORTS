@@ -15,6 +15,10 @@ Please make sure to update tests as appropriate.
 
 
 ## Current Content 
+  
+__CYXS - Prince George Airport__ (Minor Fix)  
+* Unruly runway heights fixed
+* Painted lines redone
     
 __YFB - Bamfield Aerodrome__  
 Bamfield was populated by Huu-ay-aht of the Nuu-chah-nulth, the local indigenous people. Europeans founded a small fishing community sometime in the late 1800s. Most of the indigenous people now live in the neighbouring village of Anacla about 5 kilometres from Bamfield  
@@ -26,7 +30,7 @@ Bamfield was populated by Huu-ay-aht of the Nuu-chah-nulth, the local indigenous
 * Runway terriformed. Also causing issues as the baked in runway will not exclude
 * Water bodies cleaned up
   
-__CYJM - Fort St. James (Perison) Airportk__  
+__CYJM - Fort St. James (Perison) Airport__  
 Fort St. James is a district municipality and former fur trading post in northern central British Columbia, Canada. It is located on the south-eastern shore of Stuart Lake in the Omineca Country  
 ![CYJM](/Media/Screenshots/CYJM/1.jpg)  
 ![CYJM](/Media/Screenshots/CYJM/2.jpg)  
