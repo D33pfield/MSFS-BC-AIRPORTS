@@ -17,7 +17,7 @@ Please make sure to update tests as appropriate.
 ## Current Content 
   
 __CYXS - Prince George Airport__ (Minor Fix)  
-* Unruly runway heights fixed
+* All runways redone in an effort to fix unruly heights
 * Painted lines redone
     
 __YFB - Bamfield Aerodrome__  
