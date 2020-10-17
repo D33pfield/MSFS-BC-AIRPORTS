@@ -6,7 +6,8 @@ The long term goal is to touch up most BC area airstrips and airports.
 I'm still learning alot so its probablly going to be messy and slow going. Keep in mind most of these will always be a WIP
 
 ## Downloads  
-You can either download the release builds from the releases page or you can grab the latest in \<ICAO>\Packages\
+You can either download the release builds from the releases page or you can grab the latest in \<ICAO>\Packages\  
+Another option is here on [flightsim.to](https://flightsim.to/profile/Deepfield) Some files are too large for github so you will find them there
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
