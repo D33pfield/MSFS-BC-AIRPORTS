@@ -1,11 +1,11 @@
 {
   "dependencies": [],
   "content_type": "SCENERY",
-  "title": "Douglas Lake Airport",
+  "title": "",
   "manufacturer": "",
   "creator": "Deepfield",
   "package_version": "0.1.0",
-  "minimum_game_version": "1.9.3",
+  "minimum_game_version": "1.9.5",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",

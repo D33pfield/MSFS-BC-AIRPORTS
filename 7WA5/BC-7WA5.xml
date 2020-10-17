@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\7wa5scenery.xml</Package>
+		<Package>PackageDefinitions\7wa5.xml</Package>
 	</Packages>
 </Project>
 

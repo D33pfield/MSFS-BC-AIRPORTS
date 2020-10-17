@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "",
+  "manufacturer": "",
+  "creator": "Deepfield",
+  "package_version": "0.2.0",
+  "minimum_game_version": "1.9.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

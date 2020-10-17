@@ -1,34 +1,19 @@
 {
   "content": [
     {
-      "path": "Business.json",
-      "size": 122,
-      "date": 132452073880000000
-    },
-    {
-      "path": "ContentInfo/7WA5Scenery/Thumbnail.jpg",
+      "path": "ContentInfo/7wa5/Thumbnail.jpg",
       "size": 13520,
       "date": 132452073880000000
     },
     {
-      "path": "manifest.json",
-      "size": 283,
-      "date": 132466296212269138
-    },
-    {
       "path": "scenery/7WA5-SCN.bgl",
-      "size": 16892,
-      "date": 132466405801671207
+      "size": 19241,
+      "date": 132472418702033379
     },
     {
       "path": "scenery/CVX0075.BGL",
       "size": 11153,
-      "date": 132466405802349389
-    },
-    {
-      "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 56,
-      "date": 132466227917042153
+      "date": 132472418702606892
     }
   ]
 }

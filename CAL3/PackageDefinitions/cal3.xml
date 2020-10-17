@@ -1,7 +1,7 @@
 <AssetPackage Name="cal3" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Douglas Lake Airport</Title>
+		<Title/>
 		<Manufacturer/>
 		<Creator>Deepfield</Creator>
 	</ItemSettings>
@@ -15,10 +15,10 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\cal3\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\cal3\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\cal3\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="cal3">
+		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

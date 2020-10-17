@@ -6,14 +6,19 @@
       "date": 132386522720000000
     },
     {
+      "path": "manifest.json",
+      "size": 279,
+      "date": 132472375471040943
+    },
+    {
       "path": "scenery/CYMJ-SCN.bgl",
-      "size": 18032,
-      "date": 132467309133309768
+      "size": 17280,
+      "date": 132472398553701488
     },
     {
       "path": "scenery/CYMJ-SHP.BGL",
-      "size": 14696,
-      "date": 132467309134132613
+      "size": 17666,
+      "date": 132472398554509320
     }
   ]
 }

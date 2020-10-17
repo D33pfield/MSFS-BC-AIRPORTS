@@ -1,0 +1,37 @@
+<AssetPackage Name="Deepfield-CYZT" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Description/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\Deepfield-CYZT\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\Deepfield-CYZT\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery\mycompany</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="myscene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

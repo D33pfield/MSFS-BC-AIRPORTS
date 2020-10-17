@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/cax5/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132452073880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 279,
+      "date": 132472436439296114
+    },
+    {
+      "path": "scenery/CAX5-SCN.bgl",
+      "size": 3874,
+      "date": 132472438039898614
+    },
+    {
+      "path": "scenery/CVX0005.BGL",
+      "size": 4813,
+      "date": 132472438040187840
+    }
+  ]
+}

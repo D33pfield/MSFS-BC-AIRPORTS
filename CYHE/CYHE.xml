@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\airport-cyhe.xml</Package>
+		<Package>PackageDefinitions\cyhe.xml</Package>
 	</Packages>
 </Project>
 

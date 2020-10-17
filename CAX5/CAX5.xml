@@ -1,8 +1,8 @@
-<Project Version="2" Name="SceneryProject" FolderName="Packages">
+<Project Version="2" Name="CAX5" FolderName="Packages">
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\CAX5-scenery.xml</Package>
+		<Package>PackageDefinitions\cax5.xml</Package>
 	</Packages>
 </Project>
 

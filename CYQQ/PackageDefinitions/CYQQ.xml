@@ -1,23 +1,15 @@
 <AssetPackage Name="cyqq" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title>Comox Airport Fixes</Title>
+		<Title/>
 		<Manufacturer/>
-		<Creator>Deepfield</Creator>
+		<Creator/>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-		<AssetGroup Name="CYQQ-FIXES">
-			<Type>BGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\scene\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
-		</AssetGroup>
 		<AssetGroup Name="ContentInfo">
 			<Type>Copy</Type>
 			<Flags>
@@ -26,13 +18,21 @@
 			<AssetDir>PackageDefinitions\CYQQ\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\CYQQ\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="mymodellib">
-			<Type>ArtProj</Type>
+		<AssetGroup Name="cyqq">
+			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\CYQQ\</OutputDir>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="textures">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials</AssetDir>
+			<OutputDir>MaterialLibs\mymaterials\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

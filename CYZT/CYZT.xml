@@ -1,0 +1,8 @@
+<Project Version="2" Name="CYZT" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\cyzt.xml</Package>
+	</Packages>
+</Project>
+

@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/ybf/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132452073880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 279,
+      "date": 132472325484149364
+    },
+    {
+      "path": "scenery/YBF-SCN.bgl",
+      "size": 8892,
+      "date": 132472360159757390
+    },
+    {
+      "path": "scenery/YBF-SHP.BGL",
+      "size": 8782,
+      "date": 132472360160246082
+    }
+  ]
+}
